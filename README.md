@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Expense Manager
 
-This project is a couple expense management application designed to support bilingual functionality (Persian and English).
+This project is a monthly expense management application for couples, allowing each spouse to enter expenses separately or jointly by category. It features expense charts based on monthly budgets for better cost management, reporting through charts, search with autocomplete, a fully responsive design, and other features that enhance the user experience.
 
 ## Features
 - User login and registration
@@ -42,9 +42,10 @@ node server.js OR npm start
 - frontend/: Frontend code (React)
 - backend/: Backend code (Node.js)
 
-## License
-This project is licensed under the MIT License.
-=======
-# couple-expense-management
-couple expense management application
->>>>>>> bcb6bd8490ca5a482c3caf75f2fcee5e703f67ce
+## Technologies Used
+- Frontend: React, Vite, Tailwind CSS
+- Backend: Node.js, Express.js, SQLite
+- Other: PostCSS, npm
+
+
+
