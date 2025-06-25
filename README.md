@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Manager
 
 This project is a couple expense management application designed to support bilingual functionality (Persian and English).
@@ -43,3 +44,7 @@ node server.js OR npm start
 
 ## License
 This project is licensed under the MIT License.
+=======
+# couple-expense-management
+couple expense management application
+>>>>>>> bcb6bd8490ca5a482c3caf75f2fcee5e703f67ce
